@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant");
+@import url("https://fonts.googleapis.com/css2?family=Vidaloka");
+
+@import url("components/containeur.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family:'Cormorant', serif;
+  font-size: 18px;
+}
+h1, h2, h3 {
+  font-family: 'Vidaloka', sans-serif;
+  font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
